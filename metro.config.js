@@ -1,0 +1,1 @@
+[{'https': "reactnative.dev/docs/metro\n *\n * @type {import('metro-config').MetroConfig"}, {}]
